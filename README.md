@@ -1,2 +1,6 @@
 # Code-Practise
-## egr
+## C
+## C++
+- c++_notes
+## Python
+## Java
